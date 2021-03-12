@@ -22,7 +22,7 @@ On 30 March, a virtual pledging conference hosted by the European Union and the 
 
 **Seventh visualisation (Top donors to Syria Crisis 2012-2021)** ranks the top donors to the overall Syria crisis response, and to UN appeals. Top three are US, European Commission and Germany.
 
-[Download the raw data and graphics](https://paper.dropbox.com/doc/Syria-10-years-of-crisis-FmOZ7ELiVqLPVwuMtoSDZ)
+[Download the raw data and graphics](https://paper.dropbox.com/doc/Syria-10-years-of-crisis-FmOZ7ELiVqLPVwuMtoSDZ).
 
 **Visualisation**
 * [Syria Crisis: People in need and targeted (2012-2021)](https://www.datawrapper.de/_/34jp9/)
