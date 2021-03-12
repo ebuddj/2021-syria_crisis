@@ -28,7 +28,7 @@ class App extends Component {
           hide_images:true
         }), this.createDWChart);
       }
-    }, 1);
+    }, 5000);
   }
   createDWChart() {
     this.setState((state, props) => ({
