@@ -48,7 +48,7 @@ On 30 March, a virtual pledging conference hosted by the European Union and the 
 * Financial Tracking Service (OCHA)
 
 **EBU links**
-* []()
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/8a4a12390217f99782902c3c69965d35/2021_21011239)
 
 **Used by**
 * []()
